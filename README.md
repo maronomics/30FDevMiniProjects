@@ -1,2 +1,2 @@
-# 30MWJuly
-Daily mini web development projects in July
+# 30 Front-end Development Mini-Projects in a Month of July
+
